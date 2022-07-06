@@ -1,0 +1,15 @@
+C:\xampp\htdocs\C#\Herkansing\Herkansing\obj\Debug\net6.0\Herkansing.csproj.AssemblyReference.cache
+C:\xampp\htdocs\C#\Herkansing\Herkansing\obj\Debug\net6.0\Herkansing.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\C#\Herkansing\Herkansing\obj\Debug\net6.0\Herkansing.AssemblyInfoInputs.cache
+C:\xampp\htdocs\C#\Herkansing\Herkansing\obj\Debug\net6.0\Herkansing.AssemblyInfo.cs
+C:\xampp\htdocs\C#\Herkansing\Herkansing\obj\Debug\net6.0\Herkansing.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C#\Herkansing\Herkansing\bin\Debug\net6.0\Herkansing.exe
+C:\xampp\htdocs\C#\Herkansing\Herkansing\bin\Debug\net6.0\Herkansing.deps.json
+C:\xampp\htdocs\C#\Herkansing\Herkansing\bin\Debug\net6.0\Herkansing.runtimeconfig.json
+C:\xampp\htdocs\C#\Herkansing\Herkansing\bin\Debug\net6.0\Herkansing.dll
+C:\xampp\htdocs\C#\Herkansing\Herkansing\bin\Debug\net6.0\Herkansing.pdb
+C:\xampp\htdocs\C#\Herkansing\Herkansing\obj\Debug\net6.0\Herkansing.dll
+C:\xampp\htdocs\C#\Herkansing\Herkansing\obj\Debug\net6.0\refint\Herkansing.dll
+C:\xampp\htdocs\C#\Herkansing\Herkansing\obj\Debug\net6.0\Herkansing.pdb
+C:\xampp\htdocs\C#\Herkansing\Herkansing\obj\Debug\net6.0\Herkansing.genruntimeconfig.cache
+C:\xampp\htdocs\C#\Herkansing\Herkansing\obj\Debug\net6.0\ref\Herkansing.dll
